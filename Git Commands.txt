@@ -1,0 +1,274 @@
+This is shankars read me
+updated 
+DELL@DELL-PC MINGW64 ~
+$ cd
+
+DELL@DELL-PC MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ eclipse/
+ eclipse-workspace/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ net/
+ NetHood@
+ ntuser.dat
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer0000000000000000000                                                                                                                                                 1.regtrans-ms
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer0000000000000000000                                                                                                                                                 2.regtrans-ms
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TM.blf
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TMContainer0000000000000000000                                                                                                                                                 1.regtrans-ms
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TMContainer0000000000000000000                                                                                                                                                 2.regtrans-ms
+ ntuser.ini
+ Oracle/
+ Pictures/
+ PrintHood@
+ Python_Syntaxexamples.ipynb
+ Recent@
+'Saved Games'/
+ seaborn-data/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Tracing/
+'Untitled Folder'/
+ Untitled.ipynb
+ Untitled1.ipynb
+ Videos/
+ workspace/
+
+DELL@DELL-PC MINGW64 ~
+$ pwd
+/c/Users/DELL
+
+DELL@DELL-PC MINGW64 ~
+$ mkdir shankar_workspace
+
+DELL@DELL-PC MINGW64 ~
+$ ls
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+ Desktop/
+ Documents/
+ Downloads/
+ eclipse/
+ eclipse-workspace/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ net/
+ NetHood@
+ ntuser.dat
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TM.blf
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer0000000000000000000                                                                                                                                                 1.regtrans-ms
+ NTUSER.DAT{016888bd-6c6f-11de-8d1d-001e0bcde3ec}.TMContainer0000000000000000000                                                                                                                                                 2.regtrans-ms
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TM.blf
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TMContainer0000000000000000000                                                                                                                                                 1.regtrans-ms
+ ntuser.dat{476d81b2-aa62-11e5-9039-0024d731b470}.TMContainer0000000000000000000                                                                                                                                                 2.regtrans-ms
+ ntuser.ini
+ Oracle/
+ Pictures/
+ PrintHood@
+ Python_Syntaxexamples.ipynb
+ Recent@
+'Saved Games'/
+ seaborn-data/
+ Searches/
+ SendTo@
+ shankar_workspace/
+'Start Menu'@
+ Templates@
+ Tracing/
+'Untitled Folder'/
+ Untitled.ipynb
+ Untitled1.ipynb
+ Videos/
+ workspace/
+
+DELL@DELL-PC MINGW64 ~
+$ cd shankar_workspace
+
+DELL@DELL-PC MINGW64 ~/shankar_workspace
+$ cd /d
+
+DELL@DELL-PC MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/
+ BigDataUniversity/
+'Canada Migration'/
+'CANADA PE Requirements.xlsx'
+ ecllipse/
+'Front End'/
+ HP_LoadRunner_Trial_Version_T7177-88045.exe*
+'HPE LoadRunner 12.55 Community Edition.exe'*
+ HPELR_1255_Community_Edition.zip
+ ielts/
+'IELTS Essays.docx'
+'IELTS Lettes.docx'
+'illu - Doc Checklist'/
+'IntelliJ IDEA Community Edition 2017.2.6'/
+'Intellipaat Bigdata'/
+'Java certification'/
+ javascript/
+ Jmeter/
+'K7 total Security'/
+'LoadRunner 9.1 Software (all addins)'/
+ LRAutomation/
+ Migration/
+ Movies/
+ msdia80.dll*
+'New Microsoft Office Word Document.docx'
+ Notes/
+ pe/
+ per/
+ perfengg/
+'Personal Data'/
+ Photos/
+'Premium receipts'/
+'python snippets'/
+ Pythonsnippets
+'Russell Peters'/
+ scalaworkspace/
+ selenium_jars/
+ servlet-workspace/
+ servlet-workspace2/
+ Swing/
+'System Volume Information'/
+ try/
+ workspace/
+
+DELL@DELL-PC MINGW64 /d
+$ cd workspace
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ ls
+ haijava/        Project/          scala-sparkex/   target/      UPPOlls/
+'Java sample'/   project_spark1/   sparkclass/      try/
+ javaex/         retail/           sparkex2/        untitled/
+ pom.xml         retail_dept/      src/             untitled1/
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ git config --global user.name shankarpattamatta
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ git config --global user.email shankar.pattamatta@gmail.com
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ git config --global user.name "shankarpattamatta"
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ git clone https://github.com/shankarpattamatta/TestGit.git
+Cloning into 'TestGit'...
+remote: Counting objects: 3, done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ ls
+ haijava/        Project/          scala-sparkex/   target/     untitled1/
+'Java sample'/   project_spark1/   sparkclass/      TestGit/    UPPOlls/
+ javaex/         retail/           sparkex2/        try/
+ pom.xml         retail_dept/      src/             untitled/
+
+DELL@DELL-PC MINGW64 /d/workspace
+$ cd TestGit
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ ls
+ README.md  'shankars read me.txt'
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git add shankars\ read\ me.txt
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+        new file:   shankars read me.txt
+
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git commit
+Aborting commit due to empty commit message.
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git commit -m "Committing my first text file" shankars\ read\ me.txt
+[master 6d83b24] Committing my first text file
+ 1 file changed, 1 insertion(+)
+ create mode 100644 shankars read me.txt
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git push -u origin master
+
+fatal: TaskCanceledException encountered.
+   A task was canceled.
+Username for 'https://github.com': remote: Anonymous access to shankarpattamatta                                                                                                                                                 /TestGit.git denied.
+fatal: Authentication failed for 'https://github.com/shankarpattamatta/TestGit.g                                                                                                                                                 it/'
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git push -u origin master
+fatal: TaskCanceledException encountered.
+   A task was canceled.
+Username for 'https://github.com': shankarpattamatta
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 326 bytes | 108.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/shankarpattamatta/TestGit.git
+   49507a8..6d83b24  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git commit -m "This is a second commit" shankars\ read\ me.txt
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git commit -m "This is a second commit" shankars\ read\ me.txt
+[master 5a4d1dd] This is a second commit
+ 1 file changed, 1 insertion(+)
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$ git push -u origin master
+fatal: TaskCanceledException encountered.
+   A task was canceled.
+Username for 'https://github.com': shankarpattamatta
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 347 bytes | 115.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0)
+To https://github.com/shankarpattamatta/TestGit.git
+   6d83b24..5a4d1dd  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+DELL@DELL-PC MINGW64 /d/workspace/TestGit (master)
+$
+for a second comit
